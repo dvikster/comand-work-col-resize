@@ -1,7 +1,7 @@
 /**
  * Created by UpscaleAcademy on 08.05.2017.
  */
-var div=document.getElementById('wrapear').getElementsByTagName('div');
+var div=document.getElementById('wrapper').getElementsByTagName('div');
 
 console.log(div);
 
