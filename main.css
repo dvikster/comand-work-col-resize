@@ -3,7 +3,7 @@
 	padding: 0;
 	box-sizing: border-box;
 }
-.wrapear div {
+#wrapear div {
 	border: 1px solid black;
 	margin: 1%;
 	float: left;
