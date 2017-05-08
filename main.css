@@ -3,19 +3,22 @@
 	padding: 0;
 	box-sizing: border-box;
 }
+#wrapear{
+	margin: auto;
+	width: 96%;
+}
 #wrapear div {
 	border: 1px solid black;
 	margin: 1%;
 	float: left;
 	padding: 5px;
 }
-
 #block1 {
 	width: 15%;
-	}
+}
 #block2 {
-		width: 45%;
-		}
+	width: 45%;
+}
 #block3 {
-		width: 30%;
-	 }
+	width: 30%;
+}

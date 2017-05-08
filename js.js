@@ -20,11 +20,11 @@ function mxH() {
 
      if (div[0].innerHTML =='') {
         div[0].style.display='none';
-        div[1].style.width='60%';
+        div[1].style.width='66%';
        console.log(div[1].style.width);
       } else if  (div[2].innerHTML =='') {
          div[2].style.display='none';
-         div[1].style.width='75%';
+         div[1].style.width='81%';
          console.log(div[1].style.width);}
 }
 mxH();
